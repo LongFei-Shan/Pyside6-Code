@@ -1,0 +1,26 @@
+QLineEdit#result_show {
+    background-color: #404040;
+    border-radius: 5px;
+    padding: 5px;
+    min-width: 10em;
+    font-size: 20px;
+    qproperty-alignment:AlignRight;
+    color: green;
+}
+
+* {
+    font-family: "Microsoft YaHei";
+    background-color: #242424;
+}
+
+*:hover {
+    background-color: #fff;
+}
+
+QPushButton {
+    background-color: #404040;
+    border-radius: 5px;
+    padding: 5px;
+    width: 50px;
+    font-size: 14px;
+}
